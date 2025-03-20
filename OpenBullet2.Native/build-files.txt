@@ -1,0 +1,16 @@
+Highlighting
+Images
+Lib
+OpenBullet2.Native.deps.json
+OpenBullet2.Native.dll
+OpenBullet2.Native.exe
+OpenBullet2.Native.runtimeconfig.json
+Sounds
+appsettings.json
+build-files.txt
+dbip-country-lite.mmdb
+libraries
+nbloader.dll
+selenium-manager
+user-agents.json
+version.txt
